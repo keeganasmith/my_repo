@@ -1,5 +1,4 @@
 annotated-types==0.7.0
-attorney @ file:///Users/keegansmith/Coding/Personal/attorney-2.0.0-py3-none-any.whl#sha256=155254781cd8e3b3576ff139fbf99c94668d9e61612b81ea22cf3829dec1f813
 blessed==1.20.0
 blinker==1.9.0
 certifi==2024.8.30
