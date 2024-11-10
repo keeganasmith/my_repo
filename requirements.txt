@@ -1,0 +1,12 @@
+attorney
+backports.tarfile
+flask
+greenlet
+importlib-metadata
+importlib-resources
+jaraco.collections
+numpy
+packaging
+pip-chill
+platformdirs
+tomli
